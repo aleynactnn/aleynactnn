@@ -26,6 +26,7 @@ Hello! I'm Aleyna, a developer passionate about **Data Science** and **software 
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-00C853?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data Science & AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
